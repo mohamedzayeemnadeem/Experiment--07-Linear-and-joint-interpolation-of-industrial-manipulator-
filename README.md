@@ -1,4 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+#### NAME:Mohamed Zayeem Nadeem
+#### DATE:26/04/2024
+#### REGISTER NUMBER: 212222040102
+#### DEPT:CSE
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
@@ -38,36 +42,24 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Program : 
 DART studio screen shots for linear interpolation 
 
-
-
-
-
-
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/f1b8dd71-f4e2-4cbb-8ef0-d938b21dec8a)
 
 
 
 DART studio screen shots for joint interpolation 
 
-
-
-
-
-
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/cfe9b24d-81f1-4554-9db1-d8d7f8b37366)
 
 
 ### Robot movements 
 
 
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/a4aaaa09-82f3-42f0-acc4-279c8af8bba4)
 
-
-
-
-
-
-
-
-
+![image](https://github.com/Malar5717/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/138849172/d362a00a-67d1-4299-b2cd-d00ca35cd01c)
 
 
 
 ### Results:  
+
+Thus linear and joint interpolation of industrial manipulator is studied and understood.
